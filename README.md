@@ -1,5 +1,4 @@
-# jEDBL
-Una interfaz gráfica de usuario fácil de usar para la calibración de los parámetros del algoritmo de Evolución Diferencial híbrida con Búsqueda Local (ED-BL) implementado en Java, y utilizado para resolver problemas de optimización de Síntesis de Procesos MINLP.
-
+# jED
+This software is a graphical user interface that uses the differential evolution algorithm to solve constrained numerical optimization problems. In its current version, it contains only five preloaded problems with adjustments for defects in their parameters that allow the algorithm to provide competitive solutions. Parameter values can be changed by the user for each problem.
 
 ![ED-BL-UI](https://user-images.githubusercontent.com/52833089/231825702-bd574f9d-952c-4fe2-a23c-858fda7edcc6.png)
